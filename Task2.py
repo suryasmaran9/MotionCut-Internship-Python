@@ -1,3 +1,6 @@
+
+#Word Counter
+
 def count_words(text):
     if not text.strip():
         return 0
